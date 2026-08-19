@@ -1,36 +1,130 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# IronCore Fitness
 
-## Getting Started
+> **Transform your body. Unlock your strength.**
 
-First, run the development server:
+IronCore Fitness is a modern fitness and gym website built to create a strong digital presence for a premium fitness brand. The platform combines bold visual design, structured fitness programs, membership plans, trainer profiles, and success stories into an engaging user experience.
+
+**Live Website:** https://iron-core-fitness-two.vercel.app/
+
+---
+
+## About the Project
+
+IronCore was designed as more than a simple gym landing page. The website presents a complete fitness brand experience, helping visitors explore training programs, compare membership plans, meet professional trainers, and take the next step toward joining the gym.
+
+The project focuses heavily on **visual storytelling, conversion-focused design, responsive layouts, and smooth user interactions**.
+
+---
+
+##  Highlights
+
+* 💪 Fitness programs and training categories
+* 💳 Membership plans and pricing
+* 🏆 Trainer and coaching profiles
+* 📈 Success stories and transformation section
+* 🏋️ Strength, HIIT, personal training & athletic programs
+* 🥗 Nutrition and wellness coaching
+* 📱 Fully responsive design
+* 🎨 Bold, modern fitness-focused interface
+* ⚡ Smooth animations and interactions
+* 📩 Newsletter subscription section
+* 📞 Contact and consultation call-to-actions
+
+---
+
+##  Built With
+
+| Technology        | Purpose                                 |
+| ----------------- | --------------------------------------- |
+| **Next.js**       | React framework & application structure |
+| **React**         | Component-based UI                      |
+| **TypeScript**    | Type-safe development                   |
+| **Tailwind CSS**  | Responsive styling                      |
+| **Framer Motion** | Animations & interactions               |
+| **React Icons**   | UI icons                                |
+
+---
+
+##  Design Focus
+
+The project was built around three key principles:
+
+**Strong Visual Identity**
+A bold fitness-oriented interface designed to communicate energy, strength, and professionalism.
+
+**User Experience**
+Clear navigation and structured sections make it easy for visitors to discover programs, trainers, and membership options.
+
+**Conversion-Focused Design**
+Strategically placed calls to action encourage visitors to join, book a free session, schedule a tour, or learn more about available programs.
+
+---
+
+##  Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/webfyredev/IronCore_Fitness.git
+```
+
+Navigate into the project:
+
+```bash
+cd IronCore_Fitness
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open **http://localhost:3000** in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+##  Production Build
 
-## Learn More
+```bash
+npm run build
+```
 
-To learn more about Next.js, take a look at the following resources:
+Start the production server:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+##  Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The website is deployed on **Vercel**.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔗 **Live Project:** https://iron-core-fitness-two.vercel.app/
+
+---
+
+##  Author
+
+**Oyinlade Oyinloye**
+
+Full Stack Developer focused on building modern, responsive, and user-focused web applications.
+
+🌐 **Portfolio:** https://oyinladeportfolio.vercel.app/
+💻 **GitHub:** https://github.com/webfyredev
+
+---
+
+## 📄 License
+
+This project was created as a fitness/gym website project and portfolio showcase.
+
+© 2026 Oyinlade Oyinloye. All rights reserved.
